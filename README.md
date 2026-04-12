@@ -8,3 +8,14 @@ This repository contains my beginner Git practice based on Chapter 1 of *GitHub 
 - reviewing commit history
 - creating and merging branches
 - pushing a local repository to GitHub
+
+## Key commands used
+- git init
+- git status
+- git add
+- git commit -m
+- git log --oneline
+- git show
+- git switch -c
+- git merge
+- git push -u origin main
