@@ -19,3 +19,5 @@ This repository contains my beginner Git practice based on Chapter 1 of *GitHub 
 - git switch -c
 - git merge
 - git push -u origin main
+
+This repository was reviewed and updated in VS Code as part of Chapter 2.
